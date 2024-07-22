@@ -1,0 +1,11 @@
+#pragma once
+
+#include <string_view>
+
+// this is a basic example of how a CMake configured file might look
+// in this particular case, we are using it to set the version number of our executable
+namespace safe_init::lib::example::version {
+  inline constexpr std::string_view library_version = "@PROJECT_VERSION@";
+  inline constexpr std::string_view git_hash = "@GIT_HASH@";
+  inline constexpr std::string_view git_hash_short = "@GIT_HASH_SHORT@";
+}  // namespace safe_init::lib::example::cmake

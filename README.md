@@ -13,4 +13,5 @@ https://github.com/AshleyRoll/cppcon21
 
 ## CppNorth 2024
 
-Comming soon...
+[Available Here](cppnorth2024)
+
