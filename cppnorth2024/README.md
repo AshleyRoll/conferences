@@ -8,4 +8,4 @@ and [code](safe_init/code) example for the presentation.
 
 ### Video link
 
-Coming soon.
+[![YouTube Recording of presentation](https://img.youtube.com/vi/XSU7i8n-qOI/0.jpg)](https://www.youtube.com/watch?v=XSU7i8n-qOI)

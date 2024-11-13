@@ -15,3 +15,4 @@ https://github.com/AshleyRoll/cppcon21
 
 [Available Here](cppnorth2024)
 
+[![YouTube Recording of presentation](https://img.youtube.com/vi/XSU7i8n-qOI/0.jpg)](https://www.youtube.com/watch?v=XSU7i8n-qOI)
